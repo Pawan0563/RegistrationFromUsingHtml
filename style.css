@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('iii.jpg');
+    background-repeat: repeat;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: solid;
+    padding-top: 100px;
+   
+
+}
+/* .h1{
+    width: 1400px;
+    background: url(pf.jpeg);
+} */
+#div{
+    border-radius: 30px;
+    padding-top: 30px;
+    background: rgb(41, 115, 158);
+    height: 400px;
+    width: 500px;
+
+}
